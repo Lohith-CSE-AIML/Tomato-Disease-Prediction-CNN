@@ -129,13 +129,15 @@ The trained CNN model was evaluated using a separate test dataset.
 
 The following graph shows the training and validation performance of the CNN model.
 
-![Training Results](images/training_results.png)
+<img width="723" height="703" alt="Screenshot 2026-08-24 225513" src="https://github.com/user-attachments/assets/12deba4c-4aa9-4bc7-9d85-a52ff1c58897" />
+
 
 ### 📌 Confusion Matrix
 
 The confusion matrix shows how the model performed across the three disease classes.
 
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="733" height="662" alt="Screenshot 2026-08-24 225406" src="https://github.com/user-attachments/assets/84cdf456-62b1-411a-965b-5f020a7e8293" />
+
 
 ---
 
@@ -155,6 +157,7 @@ The application allows users to:
 
 <img width="1202" height="887" alt="Screenshot 2026-08-24 225122" src="https://github.com/user-attachments/assets/c6931c82-be4e-4387-a9f8-ae2c81c003b8" />
 
+<img width="798" height="881" alt="Screenshot 2026-08-24 225141" src="https://github.com/user-attachments/assets/0c03160a-507a-4b51-8481-12aba3c55182" />
 
 ---
 
