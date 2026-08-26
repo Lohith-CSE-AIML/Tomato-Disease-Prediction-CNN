@@ -12,6 +12,14 @@ The trained CNN model is integrated with a **Streamlit web application** that al
 
 ---
 
+## 🔗 Project Links
+
+| Resource                 | Link                                                            |
+| ------------------------ | --------------------------------------------------------------- |
+| 🌐 **Live Demo**         | https://tomato-disease-prediction-cnn-uphqe69lrxcjujpeb4nhh4.streamlit.app/                                                        |
+| 💻 **GitHub Repository** | https://github.com/Lohith-CSE-AIML/Tomato-Disease-Prediction-CNN                    |
+
+
 ## 📌 Project Overview
 
 Plant diseases can significantly affect crop production and quality. Early identification of diseases can help farmers take appropriate action and reduce crop losses.
